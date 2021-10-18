@@ -2,7 +2,7 @@
 - 👀 I’m interested in technology, programming, and engineering.
 - 🌱 I’m currently learning programming.
 - 💞️ I’m looking to collaborate on any projects.
-- 📫 How to reach me: dm me
+- 📫 How to reach me: 
 
 <!---
 LarryB-UI/LarryB-UI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
