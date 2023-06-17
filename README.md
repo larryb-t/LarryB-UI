@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @LarryB-UI
 - 👀 I’m interested in technology, programming, and engineering.
-- 🌱 I’m currently learning programming.
-- 💞️ I’m looking to collaborate on any projects.
-- 📫 How to reach me: 
+- 🌱 I’m currently studying computer science.
 
 <!---
 LarryB-UI/LarryB-UI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
